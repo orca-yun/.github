@@ -31,7 +31,7 @@
 
 > audience-client  观看端（H5模式）
 
-## 后端项目组件 （商业支持联系V: beat_ping）
+## 后端项目组件 （商业支持联系V: pink-hello）
 
 > living             [主项目]直播 
   ``` 
