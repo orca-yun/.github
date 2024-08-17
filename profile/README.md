@@ -22,7 +22,7 @@
 # 🏠 项目组件
 
 
-## 前端项目组件 （商业支持联系V: beat_ping）
+## 前端项目组件 （商业支持联系V: pink-hello）
 > orca-admin       运营管理端（Web模式）
 
 > assis-client     直播助播端（Web模式）
@@ -61,11 +61,11 @@
 
   ```     
 
-> grab-push        【闭源】[基础服务]伪直播服务（商业支持联系V: beat_ping）
+> grab-push        【闭源】[基础服务]伪直播服务（商业支持联系V: pink-hello）
 
-> fire-sio         【闭源】[基础服务]IM服务（商业支持联系V: beat_ping）
+> fire-sio         【闭源】[基础服务]IM服务（商业支持联系V: pink-hello）
 
-> draw-sio         【闭源】[基础服务]白板服务（商业支持联系V: beat_ping）
+> draw-sio         【闭源】[基础服务]白板服务（商业支持联系V: pink-hello）
 
 
 
