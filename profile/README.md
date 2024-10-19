@@ -19,6 +19,12 @@
 - 直播主播端: 课件管理、消息管理、视频管理、屏幕分享、白板管理、推流管理等
 - 直播观看端: 线路切换、商品、礼物、白板、课件等
 
+## 多端演示地址
+- 运营端 https://admin.orcacl.com 【hwjy/hwjy123】
+- 助理端 https://admin.orcacl.com/app/assistant
+- 主播端 https://admin.orcacl.com/app/anchor
+- 观看端 http://d.kfc1.cn/c6e753cef47
+
 # 🏠 项目组件
 
 
