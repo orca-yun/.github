@@ -79,13 +79,9 @@
 
 > Vue、React、TypeScript、Electorn
 
-> Java、Python、SpringBoot、Dubbo、Netty、
+> Java、Python、SpringBoot、Dubbo、Netty
 
 > Redis、MongoDB、MySQL、Pulsar、Nacos、Zookeeper
-
-> K8S、Docker、Docker-Compose、Rancher
-
-> AliyunCloud、AWS、TencentCloud
 
 > ...
 
