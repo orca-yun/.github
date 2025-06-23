@@ -20,10 +20,10 @@
 - 直播观看端: 线路切换、商品、礼物、白板、课件等
 
 ## 多端演示地址
-- 运营端 https://admin.orcacl.com 【hwjy/hwjy123】
-- 助理端 https://admin.orcacl.com/app/assistant
-- 主播端 https://admin.orcacl.com/app/anchor
-- 观看端 http://d.kfc1.cn/c6e753cef47
+- 运营端 [https://admin.orcacl.com](https://dash.linchengxuan.cn/) 【hwjy/hwjy123】
+- 助理端 [https://admin.orcacl.com/app/assistant](https://dash.linchengxuan.cn/app/assistant)
+- 主播端 [https://admin.orcacl.com/app/anchor](https://dash.linchengxuan.cn/app/assistant)
+- 观看端 [http://d.kfc1.cn/c6e753cef47](http://t.linchengxuan.cn/a9e8a427bdbba)
 
 # 🏠 项目组件
 
