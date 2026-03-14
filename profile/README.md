@@ -15,15 +15,9 @@
 ## 项目包含多端
 
 - 直播运营管理端: 直播管理、订单管理、直播统计、渠道管理、渠道数据、商品管理、视频管理、系统设置等
-- 直播助理端: 直播过程中的 场控管理（氛围、剧本、订单等）、观众管理（禁言、回复、拉黑、自嗨等）、消息审核（通过、不通过）、订单管理（促单等）、商品管理(上下架、推荐、售罄等)、礼物管理、直播数据、大屏数据等、
+- 直播助理端: 直播过程中的 场控管理、观众管理、消息审核、订单管理、商品管理、礼物管理、直播数据、大屏数据等
 - 直播主播端: 课件管理、消息管理、视频管理、屏幕分享、白板管理、推流管理等
 - 直播观看端: 线路切换、商品、礼物、白板、课件等
-
-## 多端演示地址
-- 运营端 [https://admin.orcacl.com](https://dash.linchengxuan.cn/) 【hwjy/test100】
-- 助理端 [https://admin.orcacl.com/app/assistant](https://dash.linchengxuan.cn/app/assistant)
-- 主播端 [https://admin.orcacl.com/app/anchor](https://dash.linchengxuan.cn/app/assistant)
-- 观看端 [http://d.kfc1.cn/c6e753cef47](http://t.linchengxuan.cn/a9e8a427bdbba)
 
 # 🏠 项目组件
 
