@@ -25,11 +25,10 @@
 ## 前端项目组件 （商业支持联系V: pink-hello）
 > orca-admin       运营管理端（Web模式）
 
-> assis-client     直播助播端（Web模式）（商业支持联系V: pink-hello）
+> assis-client     直播助播端（Web模式）
+> anchor-client    直播主播端（Web模式开播）
 
-> anchor-client    直播主播端（Web模式开播）（商业支持联系V: pink-hello）
-
-> audience-client  观看端（H5模式）（商业支持联系V: pink-hello）
+> audience-client  观看端（H5模式）
 
 ## 后端项目组件 （商业支持联系V: pink-hello）
 
